@@ -1,4 +1,4 @@
-# BÁO CÁO MÔN AN TOÀN VÀ BẢO MẬT THÔNG TIN
+# MÔN AN TOÀN VÀ BẢO MẬT THÔNG TIN
 
 ## 1. Thuật toán mã hóa đối xứng DES và AES
 
